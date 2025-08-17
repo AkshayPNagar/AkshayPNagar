@@ -5,13 +5,12 @@
 
 
 
-- 🌱 I’m currently learning **Spring AI, MERN**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkshayPNagar?tab=repositories](https://github.com/AkshayPNagar?tab=repositories)
 
-- 💬 Ask me about **Java, SpringBoot, Angular, Hibernate, Postman, Lombok, MySQL**
+- 💬 Ask me about **Java, SpringBoot, React, Hibernate, Postman, Lombok, MySQL**
 
 - 📫 How to reach me **ak.nagar8857@gmail.com**
 
